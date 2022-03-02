@@ -1,2 +1,7 @@
-# PaintRecreation-Processing
-An a School project that I wan't to make it public becouse why not.
+
+# Paint Processing (recreation)
+
+A little School project with "Processing" recreating The Paint from Microsoft.
+
+Using Interfascia Library
+
